@@ -13,233 +13,207 @@
             "title": "HIIT"
         }
     ],
-    "moviment": [
+    "DNS": [
         {
             "id": 1,
             "categorieId": 1,
-            "title": "DNS"
-        },
-        {
-            "id": 2,
-            "categorieId": 1,
-            "title": "Mobility"
-        },
-        {
-            "id": 3,
-            "categorieId": 1,
-            "title": "stability"
-        },
-        {
-            "id": 4,
-            "categorieId": 1,
-            "title": "Mobility"
-        },
-        {
-            "id": 5,
-            "categorieId": 2,
-            "title": "Fast twitch exercises"
-        },
-        {
-            "id": 6,
-            "categorieId": 2,
-            "title": "hip"
-        },
-        {
-            "id": 7,
-            "categorieId": 2,
-            "title": "knee"
-        },
-        {
-            "id": 8,
-            "categorieId": 2,
-            "title": "rowing"
-        },
-        {
-            "id": 9,
-            "categorieId": 2,
-            "title": "pull up"
-        },
-        {
-            "id": 10,
-            "categorieId": 2,
-            "title": "push up"
-        },
-        {
-            "id": 11,
-            "categorieId": 2,
-            "title": "push press"
-        },
-        {
-            "id": 12,
-            "categorieId": 3,
-            "title": "Abs"
-        },
-        {
-            "id": 13,
-            "categorieId": 3,
-            "title": "slides & side jumps"
-        },
-        {
-            "id": 14,
-            "categorieId": 3,
-            "title": "march"
-        },
-        {
-            "id": 15,
-            "categorieId": 3,
-            "title": "sled"
-        },
-        {
-            "id": 16,
-            "categorieId": 3,
-            "title": "ladders"
-        }
-
-    ],
-    "exercises": [
-        {
-            "id": 1,
-            "movimentId": 1,
             "title": "breath",
             "link": ""
         },
         {
             "id": 2,
-            "movimentId": 1,
+            "categorieId": 1,
             "title": "breath moving arms",
             "link": ""
         },
         {
             "id": 3,
-            "movimentId": 1,
+            "categarieId": 1,
             "title": "breath moving legs",
             "link": ""
         },
         {
             "id": 4,
-            "movimentId": 1,
+            "categorieId": 1,
             "title": "breath alternated movients",
             "link": ""
         },
         {
             "id": 5,
-            "movimentId": 2,
-            "title": "cat & cow",
+            "categorieId": 1,
+            "title": "DNS dynamic TGU",
             "link": ""
         },
         {
             "id": 6,
-            "movimentId": 2,
-            "title": "spider man",
+            "categorieId": 1,
+            "title": "DNS dynamic TGU to side plank",
             "link": ""
         },
         {
             "id": 7,
-            "movimentId": 2,
+            "categorieId": 1,
+            "title": "DNS dynamic TGU to quadruped moviment for the hip",
+            "link": ""
+        }
+    ],
+    "Mobility": [
+        {
+            "id": 1,
+            "categorieId": 1,
+            "title": "cat & cow",
+            "link": ""
+        },
+        {
+            "id": 2,
+            "categorieId": 1,
+            "title": "spider man",
+            "link": ""
+        },
+        {
+            "id": 3,
+            "categorieId": 1,
             "title": "worm",
             "link": ""
         },
         {
-            "id": 8,
-            "movimentId": 2,
+            "id": 4,
+            "categorieId": 1,
             "title": "90 x 90",
             "link": ""
         },
         {
-            "id": 9,
-            "movimentId": 2,
+            "id": 5,
+            "categorieId": 1,
             "title": "pointer",
             "link": ""
         },
         {
-            "id": 10,
-            "movimentId": 2,
+            "id": 6,
+            "categorieId": 1,
             "title": "dead bug",
             "link": ""
-        },
+        }
+    ],
+    "stability": [
         {
-            "id": 11,
-            "movimentId": 3,
+            "id": 1,
+            "categorieId": 1,
             "title": "Plank",
             "link": ""
         },
         {
-            "id": 12,
-            "movimentId": 3,
+            "id": 2,
+            "categorieId": 1,
             "title": "Plank alternating shoulder touch",
             "link": ""
         },
         {
-            "id": 13,
-            "movimentId": 3,
+            "id": 3,
+            "categorieId": 1,
             "title": "Plank lifting leg and arm",
             "link": ""
         },
         {
-            "id": 14,
-            "movimentId": 3,
+            "id": 4,
+            "categorieId": 1,
             "title": "Plank side moviment",
             "link": ""
         },
         {
-            "id": 15,
-            "movimentId": 3,
+            "id": 5,
+            "categorieId": 1,
             "title": "Side plank knee bend",
             "link": ""
         },
         {
-            "id": 16,
-            "movimentId": 3,
+            "id": 6,
+            "categorieId": 1,
             "title": "side plank ",
             "link": ""
         },
         {
-            "id": 17,
-            "movimentId": 3,
+            "id": 7,
+            "categorieId": 1,
             "title": "side plank spread leg moviment",
             "link": ""
         },
         {
-            "id": 18,
-            "movimentId": 3,
+            "id": 8,
+            "categorieId": 1,
             "title": "Bridge",
             "link": ""
         },
         {
-            "id": 19,
-            "movimentId": 3,
+            "id": 9,
+            "categorieId": 1,
             "title": "Bridge single leg",
-            "link": ""
+            "link": "https://images.app.goo.gl/fmgKicGe526UG2ui6"
         },
         {
-            "id": 20,
-            "movimentId": 3,
+            "id": 10,
+            "categorieId": 1,
             "title": "semi TGU",
             "link": ""
         },
         {
-            "id": 21,
-            "movimentId": 3,
+            "id": 11,
+            "categorieId": 1,
             "title": "TGU",
             "link": ""
-        },
+        }
+    ],
+    "Fast twitch exercises": [
         {
-            "id": 22,
-            "movimentId": 4,
+            "id": 1,
+            "categorieId": 2,
             "title": "",
             "link": ""
         },
         {
-            "id": 22,
-            "movimentId": 4,
+            "id": 2,
+            "categorieId": 2,
             "title": "",
             "link": ""
         },
         {
-            "id": 22,
-            "movimentId": 4,
+            "id": 3,
+            "categorieId": 2,
             "title": "",
             "link": ""
         }
-    ]
+    ],
+    "Hip dominance": [
+
+    ],
+    "Knee dominance": [
+
+    ],
+    "Rowing mov's": [
+
+    ],   
+    "Pull ups mov's": [
+
+    ],  
+    "Push up mov's": [
+
+    ], 
+    "Push press mov's": [
+
+    ],
+    "Abs": [
+
+    ],
+    "slides & side jumps": [
+
+    ],   
+    "march": [
+
+    ],
+    "ladders": [
+
+    ],    
+    "sled": [
+
+    ]   
 }

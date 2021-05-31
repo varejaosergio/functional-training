@@ -1,0 +1,42 @@
+.banner{
+    position: relative;
+    width: 100%;
+    height:auto;    
+    text-align: center;
+    color: darkgray;
+   
+}
+.text{
+    position: absolute;
+    top: 20%;
+    left: 16px;
+    line-height: 1.15;
+    font-size: 4rem;
+}
+.text span{
+    color: #0070f3;
+    text-decoration: none;
+}
+.description {
+    position: absolute;
+    top: 32%;
+    left: 16px;
+    line-height: 1.5;
+    font-size: 1.5rem;
+    text-align: left;
+}
+.button {
+    position: absolute;
+    top: 52%;
+    left: 16px;
+    line-height: 1.5;
+    font-size: 1.5rem;
+    background: #0070f3;
+    border: 2px solid #0070f3;
+    border-radius: 5px;
+    text-align: left;
+    color: white;
+    margin-left: 15%;
+}
+
+
