@@ -1,10 +1,10 @@
+
 .banner{
     position: relative;
     width: 100%;
     height:auto;    
     text-align: center;
-    color: darkgray;
-   
+    color: darkgray;   
 }
 .text{
     position: absolute;
@@ -25,7 +25,7 @@
     font-size: 1.5rem;
     text-align: left;
 }
-.button {
+.buttonBanner {
     position: absolute;
     top: 52%;
     left: 16px;

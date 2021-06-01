@@ -11,6 +11,12 @@ const Nav = () => {
                 <li>
                     <Link href='/about'>About</Link>
                 </li>
+                <li>
+                    <button className={navStyles.signup} type="submit">Sign up</button>
+                </li>
+                <li>
+                    <button className={navStyles.login} type="submit">Login</button>
+                </li>
             </ul>
         </nav>
     )

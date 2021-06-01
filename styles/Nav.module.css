@@ -20,4 +20,30 @@
 
 .nav ul li a {
     margin: 5px 15px;
+    font-size: 1rem;
+}
+.signup {
+    position: absolute;
+    top: 21%;
+    right: 10%;
+    line-height: 1.5;
+    font-size: 1rem;
+    font-weight: bold;
+    border: 0px solid white;
+    background: none;
+    border-radius: 5px;
+    text-align: center;
+    color: #0070f3;
+}
+.login {
+    position: absolute;
+    top: 20%;
+    right: 5%;
+    line-height: 1.5;
+    font-size: 1rem;
+    border: 1.5px solid white;
+    background: none;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
 }

@@ -1,4 +1,7 @@
 import Head from 'next/head'
+import BannerMain from '../components/BannerMain'
+import Nav from '../components/Nav'
+
 
 export default function Home() {
   return (
@@ -8,8 +11,10 @@ export default function Home() {
         <meta name='keywords' 
         content='functional training, exercise programs, begining to athlete'/>
       </Head>
-
-      <h1>Welcome to Next.JS</h1>
+      <Nav/>
+      <BannerMain/>
+      
+     
     </div>
   )
 }
