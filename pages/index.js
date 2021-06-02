@@ -9,7 +9,7 @@ export default function Home() {
       <Head>
         <title>Functional Training</title>
         <meta name='keywords' 
-        content='functional training, exercise programs, begining to athlete'/>
+        content='functional training program'/>
       </Head>
       <Nav/>
       <BannerMain/>
