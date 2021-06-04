@@ -1,8 +1,8 @@
 import Head from 'next/head'
-import Form from '../components/Form'
+import Signup from '../components/Signup'
 import Header from '../components/Header'
 import Layout from '../components/Layout'
-import signupStyles from '../styles/Signup.module.css'
+
 
 const signup = () => {
     return (
@@ -14,7 +14,7 @@ const signup = () => {
             </Head>
             <Layout>
                 <Header/>
-                <Form/>
+                <Signup/>
             </Layout>           
 
         </div>

@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import formStyles from '../styles/Signup.module.css'
 
-function Form({onSubmit}) {
+const Signup = ({onSubmit}) => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState(""); 
@@ -53,4 +53,4 @@ function Form({onSubmit}) {
   );
 }
 
-export default Form;
+export default Signup;
